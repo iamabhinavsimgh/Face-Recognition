@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(violet,orange);
+}
+
+h3 {
+    font-family: cursive;
+}
+
+h2 {
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: cursive;
+}
+
+hr {
+    width: 20%;
+    border: 2px solid black;
+}
+
+h1 {
+    font-weight: bolder;
+    
+}
+
+#camera,#result{
+    width: 350px;
+    height: 300px;
+    border: 1px solid black;
+}
